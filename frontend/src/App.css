@@ -1,0 +1,20 @@
+/* Basic styles for App component */
+.bg-blue-500 {
+  background-color: #3b82f6;
+}
+.text-white {
+  color: white;
+}
+.p-8 {
+  padding: 2rem;
+}
+.text-center {
+  text-align: center;
+}
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+.font-bold {
+  font-weight: 700;
+}

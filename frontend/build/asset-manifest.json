@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e606eb91.css",
+    "main.js": "/static/js/main.3bc84cbe.js",
+    "static/media/Ultrasound6.jpg": "/static/media/Ultrasound6.c394b779e37285b68c9b.jpg",
+    "static/media/PCR05.jpg": "/static/media/PCR05.f1905a4096153a8978de.jpg",
+    "static/media/PCR06.jpg": "/static/media/PCR06.b85e212b09817d43167b.jpg",
+    "static/media/Ultrasound1.png": "/static/media/Ultrasound1.45a4ff929b94eff57954.png",
+    "static/media/PCR07.jpg": "/static/media/PCR07.a4a7111539c411b4e270.jpg",
+    "static/media/PCR01.png": "/static/media/PCR01.e06e90d18ef3d4523f80.png",
+    "static/media/Rapidtests3.jpg": "/static/media/Rapidtests3.53bab65cd4e74d59273f.jpg",
+    "static/media/CHEMSITERE6.gif": "/static/media/CHEMSITERE6.127dffa27e4693f9a614.gif",
+    "static/media/Ultrasound7.jpg": "/static/media/Ultrasound7.bcd9a42336d1a55ada1c.jpg",
+    "static/media/Rapidtests2.jpg": "/static/media/Rapidtests2.f3da6a8b01667acff721.jpg",
+    "static/media/Ultrasound3.png": "/static/media/Ultrasound3.27ef4bd72a4800a32311.png",
+    "static/media/Ultrasound2.png": "/static/media/Ultrasound2.deb143d55818d2cc6622.png",
+    "static/media/Ultrasound4.png": "/static/media/Ultrasound4.34f2ecbff1ac71e7ba3d.png",
+    "static/media/PCR12.png": "/static/media/PCR12.9908271f9557f66178be.png",
+    "static/media/CHEMSITERE2.png": "/static/media/CHEMSITERE2.3c328a233a8cc37e234e.png",
+    "static/media/CBC3.jpg": "/static/media/CBC3.dd5550e0c97984ef7900.jpg",
+    "static/media/CBC2.jpg": "/static/media/CBC2.75a8f4e33385e5df90ef.jpg",
+    "static/media/MEDICAL2.jpg": "/static/media/MEDICAL2.f15639ef8d241a0bd24b.jpg",
+    "static/media/MEDICAL1.jpg": "/static/media/MEDICAL1.9e13d68257193e4df7b5.jpg",
+    "static/media/Ultrasound5.png": "/static/media/Ultrasound5.922a37799aae91a1917c.png",
+    "static/media/CHEMSITERE1.png": "/static/media/CHEMSITERE1.d6e266f66ee1c6b678dd.png",
+    "static/media/Logo-1-removebg-preview.png": "/static/media/Logo-1-removebg-preview.d37fb14f9fa1419b1c69.png",
+    "static/media/Rapidtests1.webp": "/static/media/Rapidtests1.420f9b58114b7fd114c2.webp",
+    "static/media/MEDICAL3.jpg": "/static/media/MEDICAL3.b8988c3f90cabfdea94f.jpg",
+    "static/media/CHEMSITERE4.png": "/static/media/CHEMSITERE4.f6a52e9e3d52ce0817f0.png",
+    "index.html": "/index.html",
+    "main.e606eb91.css.map": "/static/css/main.e606eb91.css.map",
+    "main.3bc84cbe.js.map": "/static/js/main.3bc84cbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e606eb91.css",
+    "static/js/main.3bc84cbe.js"
+  ]
+}
