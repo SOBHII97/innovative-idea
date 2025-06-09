@@ -3,8 +3,6 @@
 This website was developed by [ABDELRAHMAN SOBHI], a freelance web developer.
 This project marks my first freelance job — built with passion, precision, and a focus on quality. 🚀
 
-📍 Saudi Arabia
-
 💼 Open for remote freelance work
 
 🔗 LinkedIn: [www.linkedin.com/in/abdelrhman-sobhi-44a28b242]
